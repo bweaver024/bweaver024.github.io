@@ -1,0 +1,143 @@
+<!DOCTYPE html><br>
+<html>
+<head>
+<style>
+body {
+	margin: 0;
+	alignment-adjust: middle;
+	color: #036;
+	
+}
+.navbar{
+	overflow: hidden;
+	background-color: #333
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+.navbar a{
+	float: left;
+	display: block;
+	color: #000066;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 16px;
+	font-family: Verdana, Geneva, sans-serif;
+	alignment-adjust: auto;
+}
+.main{
+	padding: 16px;
+	margin-top: 30px;
+	height:1400px;
+}
+ul{
+	margin:0 auto;
+	padding: 0;
+	text-align: center;
+}
+ul2{
+		list-style-type: circle;
+	font-color: #399;
+	font-family: verdana, geneva, san-serif;
+	}
+l2i{	list-style-type: circle;
+	font-color: #399;
+	font-family: verdana, geneva, san-serif;
+	}
+
+	
+	
+li{
+	display: inline-block;
+	list-style: none;	
+}
+p{
+	font-color: #399;
+	font-family: Verdana, Geneva, sans-serif;}
+	
+	h,h2{
+		font-size: 18px;
+		font-family:Verdana, Geneva, sans-serif;
+		text-alignt:center;
+	}
+	p1,p2,b2,ol{
+		font-color: #399;
+		font-family: Verdana, Geneva, sans-serif;
+	}
+	
+</style>
+
+<title>Welcome to Mighty Mouse Meals</title>
+</head>
+<body>
+<div id="logo">
+    <p><font size="10px">
+      <center>
+        <strong>Mighty Mouse Meals</strong>
+      </center>
+    </font></p>
+
+<div class="navbar" id="myTopnav">
+	<div class="nav">
+	</div>
+  <ul>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+    <li><a href="Recipes.html"> Recipes </a></li>
+    <li><a href="Resources.html"> Resources </a></li>
+    <li><a href="Contact.html">About Me</a></li>
+  </ul>  
+	  </div>
+	<div id="content">
+<br>
+  <div class="post">
+  
+	  <h><center>Healthier Snack/Dessert Options </center></h><br>
+ 
+  
+  <h2>Healthier Snack/Dessert Options</h2>
+
+  <br>
+<ul2>
+    <l2i>	Non-Fat Greek yogurt</l2i><br>
+    <l2i>	Powercrunch Bars (Mint is my favorite)</l2i> <br>
+    <l2i>	Quest Cookies</l2i><br>
+    <l2i>	Protein Pancakes (Kodiac or Birch) </l2i><br>
+    <l2i>	Smart Pop - Popcorn (I like to add different seasoning salts to mix up the flavor) </l2i><br>
+    
+   <!-- <l2i> </l2i><br>
+    <l2i>	</l2i><br>
+    <l2i>  </l2i><br> -->
+  </ul2> 
+	  <br>
+  
+
+<br>
+<br>
+	<li> Amazon affiliate link for the products above<br>
+		<br>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=mysite202103-20&marketplace=amazon&amp;region=US&placement=B079N9XTVL&asins=B079N9XTVL&linkId=436c54791fcc0b73def67252c5e52b7b&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+    
+ <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=mysite202103-20&marketplace=amazon&amp;region=US&placement=B077QK3NX5&asins=B077QK3NX5&linkId=7bdc58b16c87ab667f40eba0b56aa248&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+    
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=mysite202103-20&marketplace=amazon&amp;region=US&placement=B0759G6FKK&asins=B0759G6FKK&linkId=6a587edf6e1b45a6393193ce245d508c&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+    
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=mysite202103-20&marketplace=amazon&amp;region=US&placement=B01NBRBQV1&asins=B01NBRBQV1&linkId=dfefe3482e448dd0938c787dadc1a488&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+    
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=mysite202103-20&marketplace=amazon&amp;region=US&placement=B00VO4KVGE&asins=B00VO4KVGE&linkId=43e1122fdb2cae724e957f691789be87&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+    
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=mysite202103-20&marketplace=amazon&amp;region=US&placement=B00H727M6O&asins=B00H727M6O&linkId=b225c792cfd0012d798ed51b9cc6d8fb&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+    
+    
+    
+	</li>
+
+<li> </ol>
